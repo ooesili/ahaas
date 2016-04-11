@@ -46,5 +46,5 @@ This project is currently still in development, and we welcome skilled developer
 
 * BMP
 
-This fine craft AHaaS lovingly brewed for the community by [ooesili](github.com/ooesili) and [melissanoelle](github.com/melissanoelle).  
+This fine craft AHaaS lovingly brewed for the community by [ooesili](https://github.com/ooesili) and [melissanoelle](https://github.com/melissanoelle).  
 
