@@ -1,0 +1,9 @@
+# vagrant
+.vagrant
+
+# direnv
+.envrc
+
+# terraform
+*.tfstate
+*.tfstate.backup
